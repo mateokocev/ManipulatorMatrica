@@ -119,7 +119,7 @@ Kad uzmemo 3x3 odsječak piksela sa slike i svaki element pomnožimo sa našim k
 
 
 
-![](primjer 4.png)
+![](primjer4.png)
 
 
 
@@ -177,7 +177,7 @@ Primjer 5.
 
 
 
-![](primjer 5.png)
+![](primjer5.png)
 
 
 
@@ -234,7 +234,7 @@ Primjer 6.
 
 
 
-![](primjer 6.png)
+![](primjer6.png)
 
 
 
@@ -282,7 +282,7 @@ Primjer 7.
 
 
 
-![](primjer 7.png)
+![](primjer7.png)
 
 
 
@@ -360,7 +360,7 @@ Primjer 8.
 
 
 
-![](primjer 8.png)
+![](primjer8.png)
 
 
 
@@ -412,7 +412,7 @@ Primjer 9.
 
 
 
-![](primjer 9.png)
+![](primjer9.png)
 
 
 
@@ -470,7 +470,7 @@ Primjer 10.
 
 
 
-![](primjer 10.png)
+![](primjer10.png)
 
 
 
@@ -578,7 +578,7 @@ Primjer 11.
 
 
 
-![](primjer 11.png)
+![](primjer11.png)
 
 
 
